@@ -1,0 +1,86 @@
+[
+    {
+        "chunk_id": 1,
+        "filename": "generated_employee_v2_chunk_1_20251015_113131.xlsx",
+        "rows": 83334,
+        "size_mb": 2.79,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 2,
+        "filename": "generated_employee_v2_chunk_2_20251015_113131.xlsx",
+        "rows": 83334,
+        "size_mb": 2.78,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 3,
+        "filename": "generated_employee_v2_chunk_3_20251015_113131.xlsx",
+        "rows": 83334,
+        "size_mb": 2.79,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 4,
+        "filename": "generated_employee_v2_chunk_4_20251015_113131.xlsx",
+        "rows": 83334,
+        "size_mb": 2.79,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 5,
+        "filename": "generated_employee_v2_chunk_5_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 6,
+        "filename": "generated_employee_v2_chunk_6_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 7,
+        "filename": "generated_employee_v2_chunk_7_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.79,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 8,
+        "filename": "generated_employee_v2_chunk_8_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 9,
+        "filename": "generated_employee_v2_chunk_9_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 10,
+        "filename": "generated_employee_v2_chunk_10_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 11,
+        "filename": "generated_employee_v2_chunk_11_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    },
+    {
+        "chunk_id": 12,
+        "filename": "generated_employee_v2_chunk_12_20251015_113131.xlsx",
+        "rows": 83333,
+        "size_mb": 2.8,
+        "timestamp": "20251015_113131"
+    }
+]

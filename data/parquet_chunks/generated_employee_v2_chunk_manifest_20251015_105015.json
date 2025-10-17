@@ -1,0 +1,162 @@
+[
+    {
+        "chunk_id": 1,
+        "source_excel": "generated_employee_v2_chunk_10_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_1_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 2,
+        "source_excel": "generated_employee_v2_chunk_11_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_2_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 3,
+        "source_excel": "generated_employee_v2_chunk_12_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_3_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 4,
+        "source_excel": "generated_employee_v2_chunk_1_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_4_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 5,
+        "source_excel": "generated_employee_v2_chunk_1_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_5_20251015_105015.parquet",
+        "rows": 83334,
+        "size_mb": 1.93,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 6,
+        "source_excel": "generated_employee_v2_chunk_2_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_6_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 7,
+        "source_excel": "generated_employee_v2_chunk_2_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_7_20251015_105015.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 8,
+        "source_excel": "generated_employee_v2_chunk_3_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_8_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 9,
+        "source_excel": "generated_employee_v2_chunk_3_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_9_20251015_105015.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 10,
+        "source_excel": "generated_employee_v2_chunk_4_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_10_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 11,
+        "source_excel": "generated_employee_v2_chunk_4_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_11_20251015_105015.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 12,
+        "source_excel": "generated_employee_v2_chunk_5_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_12_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 13,
+        "source_excel": "generated_employee_v2_chunk_5_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_13_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 14,
+        "source_excel": "generated_employee_v2_chunk_6_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_14_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 15,
+        "source_excel": "generated_employee_v2_chunk_6_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_15_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 16,
+        "source_excel": "generated_employee_v2_chunk_7_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_16_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 17,
+        "source_excel": "generated_employee_v2_chunk_7_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_17_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 18,
+        "source_excel": "generated_employee_v2_chunk_8_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_18_20251015_105015.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 19,
+        "source_excel": "generated_employee_v2_chunk_8_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_19_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    },
+    {
+        "chunk_id": 20,
+        "source_excel": "generated_employee_v2_chunk_9_20251015_104900.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_20_20251015_105015.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "timestamp": "20251015_105015"
+    }
+]

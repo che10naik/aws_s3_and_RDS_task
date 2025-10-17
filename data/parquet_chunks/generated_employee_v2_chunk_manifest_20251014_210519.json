@@ -1,0 +1,66 @@
+[
+    {
+        "chunk_id": 1,
+        "source_excel": "generated_employee_v2_chunk_1_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_1_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 2,
+        "source_excel": "generated_employee_v2_chunk_2_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_2_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 3,
+        "source_excel": "generated_employee_v2_chunk_3_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_3_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 4,
+        "source_excel": "generated_employee_v2_chunk_4_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_4_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 5,
+        "source_excel": "generated_employee_v2_chunk_5_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_5_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 6,
+        "source_excel": "generated_employee_v2_chunk_6_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_6_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 7,
+        "source_excel": "generated_employee_v2_chunk_7_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_7_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    },
+    {
+        "chunk_id": 8,
+        "source_excel": "generated_employee_v2_chunk_8_20251014_210236.xlsx",
+        "parquet_file": "generated_employee_v2_chunk_8_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "timestamp": "20251014_210519"
+    }
+]

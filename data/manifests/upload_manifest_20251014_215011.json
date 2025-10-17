@@ -1,0 +1,9 @@
+[
+    {
+        "file": "generated_employee_v2_chunk_8_20251014_210519.parquet",
+        "s3_key": "chetanN//generated_employee_v2_chunk_8_20251014_210519.parquet",
+        "rows": 125000,
+        "size_mb": 2.88,
+        "uploaded_at": "2025-10-14T21:50:10.471444"
+    }
+]
