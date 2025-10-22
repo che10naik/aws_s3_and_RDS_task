@@ -28,6 +28,7 @@ def _generate_chunk(start_id, num_rows, salary_min, salary_max, days_back):
         name = fake.name()
         salary = round(np.random.uniform(salary_min, salary_max), 2)
         salary_date = fake.date_between_dates(date_start=start_date, date_end=end_date)
+        salary_date = pd.to_datetime(salary_date).date()
         employee.append(Employees(empid, name, salary, salary_date))
 
     return pd.DataFrame([asdict(e) for e in employee])

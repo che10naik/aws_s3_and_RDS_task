@@ -98,5 +98,10 @@
         "file": "generated_employee_v2_chunk_2_20251015_113236.parquet",
         "rows_imported": 10000,
         "timestamp": "2025-10-15T15:25:08.804350"
+    },
+    {
+        "file": "generated_employee_v2_chunk_10_20251022_201946.parquet",
+        "rows_imported": 10000,
+        "timestamp": "2025-10-22T20:43:47.464686"
     }
 ]
