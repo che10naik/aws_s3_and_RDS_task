@@ -1,0 +1,86 @@
+[
+    {
+        "file": "generated_employee_v2_chunk_1_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_1_20251022_201946.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:26.749252"
+    },
+    {
+        "file": "generated_employee_v2_chunk_2_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_2_20251022_201946.parquet",
+        "rows": 83334,
+        "size_mb": 1.93,
+        "uploaded_at": "2025-10-22T20:22:29.210787"
+    },
+    {
+        "file": "generated_employee_v2_chunk_3_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_3_20251022_201946.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:31.553629"
+    },
+    {
+        "file": "generated_employee_v2_chunk_4_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_4_20251022_201946.parquet",
+        "rows": 83334,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:33.778675"
+    },
+    {
+        "file": "generated_employee_v2_chunk_5_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_5_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.93,
+        "uploaded_at": "2025-10-22T20:22:36.011597"
+    },
+    {
+        "file": "generated_employee_v2_chunk_6_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_6_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:38.233569"
+    },
+    {
+        "file": "generated_employee_v2_chunk_7_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_7_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:40.923977"
+    },
+    {
+        "file": "generated_employee_v2_chunk_8_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_8_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:43.468290"
+    },
+    {
+        "file": "generated_employee_v2_chunk_9_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_9_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:46.198540"
+    },
+    {
+        "file": "generated_employee_v2_chunk_10_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_10_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:48.760486"
+    },
+    {
+        "file": "generated_employee_v2_chunk_11_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_11_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:51.491427"
+    },
+    {
+        "file": "generated_employee_v2_chunk_12_20251022_201946.parquet",
+        "s3_key": "chetanN/generated_employee_v2_chunk_12_20251022_201946.parquet",
+        "rows": 83333,
+        "size_mb": 1.92,
+        "uploaded_at": "2025-10-22T20:22:54.049183"
+    }
+]
