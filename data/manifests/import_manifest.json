@@ -103,5 +103,10 @@
         "file": "generated_employee_v2_chunk_10_20251022_201946.parquet",
         "rows_imported": 10000,
         "timestamp": "2025-10-22T20:43:47.464686"
+    },
+    {
+        "file": "generated_employee_v2_chunk_10_20251022_211713.parquet",
+        "rows_imported": 10000,
+        "timestamp": "2025-10-22T21:22:49.020583"
     }
 ]

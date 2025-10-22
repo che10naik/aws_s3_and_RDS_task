@@ -41,6 +41,7 @@ class ParequateConverter:
                     continue
 
                 parquet_path = self.output_dir / f"{self.output_prefix}{idx}_{timestamp}.parquet"
+                df["salary_date"] = pd.to_datetime(df["salary_date"]).dt.date 
                 df.to_parquet(parquet_path, index=False, compression="snappy")
 
                 file_size = parquet_path.stat().st_size / (1024 * 1024)
